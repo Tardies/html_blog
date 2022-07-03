@@ -242,7 +242,7 @@ footer {
     margin-top: 25px;
     border-bottom: 100px solid yellow;
 }
-#left-container-flag:hover {
+/*#left-container-flag:hover {
     height: 100px;
     border-radius: 10px;
     background-color: red;
@@ -252,7 +252,7 @@ footer {
     animation-duration: 0.15s;
     animation-iteration-count: infinite; 
     border-bottom: 100px solid black;
-}
+}*/
 @keyframes rage {
     0% {transform: rotate(0deg); margin-right: 0px; margin-left: 0px;}
     25% {transform: rotate(2deg); margin-right: 5px; margin-left: -5px;}
